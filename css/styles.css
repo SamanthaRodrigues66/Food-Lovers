@@ -10,7 +10,7 @@ body {
 }
 
 .navbar {
-  background: #685e68;
+  background: #853485;
   color: #f3ecec;
   padding: 15px;
   width: 100%;
@@ -47,7 +47,7 @@ body {
 .navbar ul.links li:hover {
   background: rgb(224, 87, 241);
   cursor: pointer;
-  color: #6b5f5f;
+  color: #c019b8;
 }
 .container {
   width: 100%;
@@ -77,7 +77,7 @@ body {
 }
 
 footer {
-  background-color: rgb(35, 35, 35);
+  background-color: rgb(131, 42, 143);
   padding: 25px;
   text-align: center;
 }
