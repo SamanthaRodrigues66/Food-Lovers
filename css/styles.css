@@ -1,9 +1,12 @@
-* {
+
+  @import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+*{
   padding: 0;
   margin: 0;
   box-sizing: border-box;
   color: rgb(231, 207, 207);
 }
+  
 
 body {
   background-color: rgb(187, 92, 187);
