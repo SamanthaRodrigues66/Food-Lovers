@@ -12,10 +12,12 @@
 
 body {
   background-color: rgb(130, 175, 235);
+  background: rgb(118,203,207);
+  background: linear-gradient(90deg, rgba(118,203,207,1) 31%, rgba(135,164,198,1) 85%);
 }
 
 .navbar {
-  background: #564ed1;
+  background: #50ddf0;
   color: #ffffff;
   padding: 15px;
   width: 100%;
@@ -83,7 +85,7 @@ body {
 }
 
 footer {
-  background-color: rgb(76, 74, 209);
+  background-color: rgb(82, 209, 231);
   padding: 25px;
   text-align: center;
 }
