@@ -4,17 +4,17 @@
   padding: 0;
   margin: 0;
   box-sizing: border-box;
-  color: rgb(231, 207, 207);
+  color: rgb(255, 255, 255);
 }
   
 
 body {
-  background-color: rgb(187, 92, 187);
+  background-color: rgb(130, 175, 235);
 }
 
 .navbar {
-  background: #853485;
-  color: #f3ecec;
+  background: #564ed1;
+  color: #ffffff;
   padding: 15px;
   width: 100%;
   height: 75px;
@@ -48,9 +48,9 @@ body {
   color: #fff;
 }
 .navbar ul.links li:hover {
-  background: rgb(224, 87, 241);
+  background: rgb(8, 183, 252);
   cursor: pointer;
-  color: #c019b8;
+  color: #09affc;
 }
 .container {
   width: 100%;
@@ -80,7 +80,7 @@ body {
 }
 
 footer {
-  background-color: rgb(131, 42, 143);
+  background-color: rgb(76, 74, 209);
   padding: 25px;
   text-align: center;
 }
