@@ -2,10 +2,6 @@
   @import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
   @import url('https://fonts.googleapis.com/css2?family=Gloria+Hallelujah&display=swap');
 
-
-
-
-
 *{
   padding: 0;
   margin: 0;
@@ -13,7 +9,6 @@
   color: rgb(255, 255, 255);
 }
   
-
 body {
   background-color: rgb(130, 175, 235);
   background: rgb(7,10,121);
@@ -31,10 +26,6 @@ body {
   display: flex;
   align-items: center;
   
-}
-
-.logo {
-  cursor: pointer;
 }
 
 .navbar ul.links {
@@ -96,3 +87,58 @@ footer {
   padding: 25px;
   text-align: center;
 }
+
+.card_carrinho {
+  width: 80%;
+  display: flex;
+  margin: 1% 1%;
+  margin-left: 100px;
+  padding: 15px;
+  font-size: 10px;
+  color: aqua;
+  text-align: center;
+  align-items: center;
+  flex-wrap: wrap;
+  font-family: 'Courier New', Courier, monospace;
+  background-color: rgb(94, 112, 148);
+  border-radius: 3px;
+}
+
+.card_carrinho img{
+  height: 200px;
+  width: 30%;
+  margin: 10px;
+  cursor: pointer;
+  border-color: rgb(10, 114, 250);
+  border-radius: 2px;
+}
+
+.card_carrinho h1{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  text-transform: uppercase;
+  font-size: 20px;
+  background-color: rgb(5, 29, 80);
+  border-radius: 3px;
+  padding: 5px;
+  margin-right: 10px;
+  width: 20%;
+}
+
+.card_carrinho h2{
+  margin-left: 20px;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 30px;
+  text-transform: uppercase;
+}
+
+.card_carrinho button{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  text-transform: uppercase;
+  font-size: 20px;
+  background-color: rgb(0, 0, 0);
+  border-radius: 5px;
+  padding: 5px;
+  margin-left: 20px;
+  cursor: pointer;
+}
+
